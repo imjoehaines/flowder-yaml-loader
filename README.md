@@ -1,4 +1,4 @@
-# Flowder YAML Loader [![Build Status](https://travis-ci.org/imjoehaines/flowder-yaml-loader.svg?branch=master)](https://travis-ci.org/imjoehaines/flowder-yaml-loader) [![codecov](https://codecov.io/gh/imjoehaines/flowder-yaml-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/imjoehaines/flowder-yaml-loader)
+# Flowder YAML Loader [![Latest Stable Version](https://poser.pugx.org/imjoehaines/flowder-yaml-loader/v/stable)](https://packagist.org/packages/imjoehaines/flowder-yaml-loader) [![Build Status](https://travis-ci.org/imjoehaines/flowder-yaml-loader.svg?branch=master)](https://travis-ci.org/imjoehaines/flowder-yaml-loader) [![codecov](https://codecov.io/gh/imjoehaines/flowder-yaml-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/imjoehaines/flowder-yaml-loader)
 
 A YAML file loader for [Flowder](https://github.com/imjoehaines/flowder)
 

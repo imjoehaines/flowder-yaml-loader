@@ -15,9 +15,16 @@ final class YamlLoaderTest extends TestCase
         $actual = iterator_to_array($data);
         $expected = [
             'one' => [
-                'column_1' => 'value 1',
-                'column_2' => 2,
-                'column_3' => 'three',
+                [
+                    'column_1' => 'value 1',
+                    'column_2' => 2,
+                    'column_3' => 'three',
+                ],
+                [
+                    'column_1' => 'value 4',
+                    'column_2' => 5,
+                    'column_3' => 'six',
+                ]
             ],
         ];
 

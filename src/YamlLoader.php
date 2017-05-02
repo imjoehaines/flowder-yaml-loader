@@ -21,6 +21,6 @@ final class YamlLoader implements LoaderInterface
 
         $data = Yaml::parse($yaml);
 
-        yield $table => $data;
+        yield $table => array_values($data);
     }
 }

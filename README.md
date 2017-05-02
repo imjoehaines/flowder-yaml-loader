@@ -25,7 +25,7 @@ row_2:
     column_3: six
 ```
 
-Any YAML array syntax supported by [Symfony's Yaml Component](http://symfony.com/doc/current/components/yaml.html), so all of the following examples will result in the exact same data as above
+Any YAML array syntax supported by [Symfony's Yaml Component](http://symfony.com/doc/current/components/yaml.html) is supported, so all of the following examples will result in the exact same data as above
 
 ```yaml
 -
